@@ -1,0 +1,1 @@
+{"name":"Local: evenodd","url":"e:\\RESPUESTAS CLASES\\REPASO PERSONAL\\PAR O IMPAR\\evenodd.cpp","tests":[{"id":1678413820931,"input":"4\n8\n21\n98\n159","output":"Even\nOdd\nEven\nOdd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\RESPUESTAS CLASES\\REPASO PERSONAL\\PAR O IMPAR\\evenodd.cpp","group":"local","local":true}

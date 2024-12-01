@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"e:\\RESPUESTAS CLASES\\REPASO PERSONAL\\PARTIDOS\\main.cpp","tests":[{"id":1676078915691,"input":"1 1 1 1","output":"YES\n1"},{"id":1676078924869,"input":"1 2 3 4","output":"NO\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\RESPUESTAS CLASES\\REPASO PERSONAL\\PARTIDOS\\main.cpp","group":"local","local":true}

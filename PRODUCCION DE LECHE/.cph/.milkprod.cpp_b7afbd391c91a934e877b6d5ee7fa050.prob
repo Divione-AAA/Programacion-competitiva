@@ -1,0 +1,1 @@
+{"name":"Local: milkprod","url":"e:\\RESPUESTAS CLASES\\REPASO PERSONAL\\PRODUCCION DE LECHE\\milkprod.cpp","tests":[{"id":1674344589256,"input":"12 4 2\n1 2 8\n10 12 19\n3 6 24\n7 10 31","output":"43"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\RESPUESTAS CLASES\\REPASO PERSONAL\\PRODUCCION DE LECHE\\milkprod.cpp","group":"local","local":true}

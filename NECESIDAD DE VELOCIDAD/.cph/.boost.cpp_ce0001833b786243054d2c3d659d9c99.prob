@@ -1,0 +1,1 @@
+{"name":"Local: boost","url":"e:\\RESPUESTAS CLASES\\REPASO PERSONAL\\NECESIDAD DE VELOCIDAD\\boost.cpp","tests":[{"id":1677965315471,"input":"1500 100 4\n250 25\n150 9\n120 5\n200 8","output":"2\n3\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\RESPUESTAS CLASES\\REPASO PERSONAL\\NECESIDAD DE VELOCIDAD\\boost.cpp","group":"local","local":true}

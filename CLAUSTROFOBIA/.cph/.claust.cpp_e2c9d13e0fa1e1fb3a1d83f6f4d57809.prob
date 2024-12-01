@@ -1,0 +1,1 @@
+{"name":"Local: claust","url":"e:\\RESPUESTAS CLASES\\REPASO PERSONAL\\CLAUSTROFOBIA\\claust.cpp","tests":[{"id":1678331045218,"input":"9\n2 9\n5 9\n8 10\n11 7\n10 3\n5 1\n6 4\n2 5\n7 6","output":"7 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\RESPUESTAS CLASES\\REPASO PERSONAL\\CLAUSTROFOBIA\\claust.cpp","group":"local","local":true}

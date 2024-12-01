@@ -1,0 +1,1 @@
+{"name":"Local: patheads","url":"e:\\RESPUESTAS CLASES\\REPASO PERSONAL\\PALMEANDO CABEZAS\\patheads.cpp","tests":[{"id":1675472769708,"input":"5\n2\n1\n2\n3\n4","output":"2\n0\n2\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\RESPUESTAS CLASES\\REPASO PERSONAL\\PALMEANDO CABEZAS\\patheads.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"e:\\RESPUESTAS CLASES\\REPASO PERSONAL\\AGENTES\\main.cpp","tests":[{"id":1685648855052,"input":"6              \n2               \n3      \n1               \n3      \n6     \n5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\RESPUESTAS CLASES\\REPASO PERSONAL\\AGENTES\\main.cpp","group":"local","local":true}
