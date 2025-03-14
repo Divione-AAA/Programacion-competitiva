@@ -48,8 +48,7 @@ int solucion(int n){
         return mapa[n];
         cout<<n<<endl;
     }
-
-
+    
     int mayor = bigger(n);
     mapa[n] = solucion(n-mayor)+1;
     //cout<<mapa[n]<<" "<<n<<endl;
