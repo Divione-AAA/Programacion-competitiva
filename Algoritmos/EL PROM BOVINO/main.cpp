@@ -1,0 +1,53 @@
+#include<bits/stdc++.h>
+//using namespace std;
+
+int cant=0;
+std::vector<bool> ver(1000,false);
+std::vector<std::vector<int>> adj(1000);
+int n,m;int t=1;
+
+
+
+
+void dfs(int v){
+    ver[v] = true;
+    for (int u : adj[v]) {
+        if (!ver[u]){
+            t=t+1;
+            dfs(u);
+        }
+    }
+}
+
+void tell(){
+
+for(int i=0;i<n;i++){
+
+    if(ver[i]==false){
+
+        t=1;
+        dfs(i);
+
+        if(t>2){cant=cant+1;}
+
+        }
+    }
+}
+
+int main(){
+
+    std::cin>>n>>m;
+
+    while(m--){
+
+        int a,b;std::cin>>a>>b;
+
+        adj[a].push_back(b);
+        adj[b].push_back(a);
+
+    }
+
+    tell();
+
+    std::cout<<(cant<0 ? 0 : cant);
+return 0;}
