@@ -32,30 +32,24 @@ int32_t main(){
     cin>>n;
     r.resize(n);
     loop(i,n) cin>>r[i];
-
-
     loop(m,1<<n){
         cp=cn=0;
         t=0;
-        //if(__builtin_popcount(m)==n){
-            loop(i,n){
-                if(m&(1<<i)){
-                    cp+=r[i];
-                    t++;
-                }else{
-                    cn+=r[i];
-                    t++;
-                }
+        loop(i,n){
+            if(m&(1<<i)){
+                cp+=r[i];
+                t++;
+            }else{
+                cn+=r[i];
+                t++;
             }
+        }
+        //mi error era verlo como una suma cuando en realidad es si alguna suma o resta era modulo de 360=0
+        if((cp-cn)%360==0){
             //cout<<cp<<" "<<cn<<endl;
-            //mi error era verlo como una suma cuando en realidad es si alguna suma o resta era modulo de 360
-            if((cp-cn)%360==0){
-                //cout<<cp<<" "<<cn<<endl;
-                cout<<"YES";
-                return 0;
-            }
-        //}
+            cout<<"YES";
+            return 0;
+        }
     }
-
     cout<<"NO";
 return 0;}
