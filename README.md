@@ -95,11 +95,3 @@ Bienvenido/a — aquí resumo las habilidades, plataformas donde practiqué y lo
 - **Estructura:** Cada carpeta contiene soluciones y, cuando aplica, explicación breve.
 
 ---
-
-¿Quisieras que también:
-- Añada badges de tus plataformas (profile links)? 🔗
-- Genere una sección de 'Cómo Practicar' con rutinas diarias? 📅
-
-Archivo actualizado: `README.md` (raíz del repo).
-
-— Fin —
