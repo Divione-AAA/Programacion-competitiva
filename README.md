@@ -89,9 +89,3 @@ Bienvenido/a — aquí resumo las habilidades, plataformas donde practiqué y lo
 - **ICPC / IOI:** Problemas de alto nivel, trabajo en equipo (ICPC) y problemas olímpicos (IOI).
 
 ---
-
-**Cómo uso este repositorio** 🚀
-- **Objetivo:** Archivar soluciones y notas por problema/tema para referencia rápida.
-- **Estructura:** Cada carpeta contiene soluciones y, cuando aplica, explicación breve.
-
----
